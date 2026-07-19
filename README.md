@@ -1,46 +1,70 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<div align="center">
+  <img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-###
+<div align="center">
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <a href="mailto:javaidsaqib853@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+<a href="https://www.linkedin.com/in/saqib-javaid-a42301381" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:javaidsaqib853@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
-###
+---
 
-<h1 data-importer="text" align="center">Hi 👋, I'm Saqib Javaid</h1>
+# Hi 👋, I'm Saqib Javaid
 
-###
+### A passionate Front-End Developer from Karachi, Pakistan 🇵🇰
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+💻 I enjoy building responsive and user-friendly web applications.
 
-###
+🚀 Currently learning Firebase and exploring modern web development technologies.
 
-<p data-importer="text" align="left">A passionate Front-End Developer from Karachi, Pakistan. ⭐<br><br>🔭 I'm working on Front-End Development projects<br><br>📚 I'm currently learning React.js<br><br>⚡ In my free time I build projects, explore new web technologies, and improve my coding skills</p>
+🌱 Always improving my front-end development skills by building real-world projects.
 
-###
+---
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+## 👨‍💻 About Me
 
-###
+- 🔭 I'm working on Front-End Development projects.
+- 📚 I'm currently learning Firebase.
+- ⚡ I enjoy building projects and exploring new web technologies.
+- 🎯 Goal: Aspiring Software Engineer.
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="45" alt="firebase logo"/></p>
+
+
+## 🔥 My GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Saqibcoder99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=Saqibcoder99&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqibcoder99&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-###
+---
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
 
-###
+
+
+</div>
