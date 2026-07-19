@@ -49,6 +49,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="45" alt="firebase logo"/></p>
 
+---
+
 
 ## 🔥 My GitHub Stats
 
